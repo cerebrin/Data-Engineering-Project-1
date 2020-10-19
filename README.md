@@ -2,7 +2,7 @@
 
 ### Project Description
 
-The *Sparkify* startup has a bunch of JSON log files recording how people use their music streaming service, and they need a postgres database to be able to query and study this data. The task is to create a star schema that can logically hold data on users, which songs and artists people are listening to, and the times in which the app is being used. An ETL job is needed to extract the required values from a set of JSON files and load them into Postgres tables.
+The *Sparkify* startup has thousands of JSON log files recording how people use their music streaming service, and they need a postgres database to be able to query and study this data. The task is to create a star schema that can logically hold data on users, which songs and artists people are listening to, and the times in which the app is being used. An ETL job is needed to extract the required values from a set of JSON files and load them into Postgres tables.
 
 ### How to run the project
 
